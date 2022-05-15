@@ -7,4 +7,4 @@ roll-off factor as α = 0.4.
 
 Simulate transmission of baseband signal via an AWGN channel
 
-Eye diagram simulation also included
+Eye diagram simulation also included (change the roll off facctor and run the program
