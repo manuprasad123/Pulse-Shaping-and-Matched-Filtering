@@ -6,3 +6,5 @@ Use root rasied cosine pulse p(t) as the shapig pulse, and generate the correspo
 roll-off factor as α = 0.4.
 
 Simulate transmission of baseband signal via an AWGN channel
+
+Eye diagram simulation also included
