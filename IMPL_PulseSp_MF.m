@@ -47,4 +47,5 @@ plot(rxSignal)
 legend('Filtered signal through AWGN')
 
 eyediagram(BP_Data,2);legend('Transmitted signal')
-eyediagram(rxFiltSignal,2);legend('Recieved signal')
+eyediagram(rxSignal,2);legend('Recieved signal')
+eyediagram(rxFiltSignal,2);legend('Filtered signal')
